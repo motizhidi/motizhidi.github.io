@@ -1,31 +1,55 @@
 <!DOCTYPE html>
+
 <html lang="zh-CN">
+
 <head>
+
   <meta charset="UTF-8">
+
   <title>莫提之地的文档</title>
+
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+
   <meta name="description" content="莫提之地的 Docsify 文档站">
+
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
   <!-- 使用国内 CDN：BootCDN -->
+
   <link rel="stylesheet" href="https://cdn.bootcdn.net/ajax/libs/docsify/4.13.1/themes/vue.css">
+
 </head>
+
 <body>
+
   <div id="app">📚 正在加载文档，请稍候……</div>
 
-<script>
-  window.$docsify = {
-    name: '莫提之地的文档',
-    repo: '',
-    loadSidebar: true,     //  加载手写的 _sidebar.md
-    subMaxLevel: 1,        //  默认只展开一级（主章节）
-    loadNavbar: false,
-    coverpage: false,
-    auto2top: true
-  }
-</script>
+  <script>
+
+    window.$docsify = {
+
+      name: '莫提之地的文档',
+
+      repo: '', 
+
+      loadSidebar: false, 
+
+      loadNavbar: false,
+
+      coverpage: false,
+
+      auto2top: true,
+
+      subMaxLevel: 2
+
+    }
+
+  </script>
 
   <!-- 使用国内 CDN 加载 Docsify 主脚本 -->
+
   <script src="https://cdn.bootcdn.net/ajax/libs/docsify/4.13.1/docsify.min.js"></script>
+
 </body>
+
 </html>
