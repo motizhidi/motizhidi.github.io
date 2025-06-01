@@ -13,17 +13,17 @@
 <body>
   <div id="app">📚 正在加载文档，请稍候……</div>
 
-  <script>
-    window.$docsify = {
-      name: '莫提之地的文档',
-      repo: '', // 你可以写成 'motizhidi/motizhidi.github.io' 显示 GitHub 链接
-      loadSidebar: false, // 如果你未来想加 sidebar 可以改成 true
-      loadNavbar: false,
-      coverpage: false,
-      auto2top: true,
-      subMaxLevel: 2
-    }
-  </script>
+<script>
+  window.$docsify = {
+    name: '莫提之地的文档',
+    repo: '',
+    loadSidebar: true,     //  加载手写的 _sidebar.md
+    subMaxLevel: 1,        //  默认只展开一级（主章节）
+    loadNavbar: false,
+    coverpage: false,
+    auto2top: true
+  }
+</script>
 
   <!-- 使用国内 CDN 加载 Docsify 主脚本 -->
   <script src="https://cdn.bootcdn.net/ajax/libs/docsify/4.13.1/docsify.min.js"></script>
