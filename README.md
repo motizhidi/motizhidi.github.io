@@ -10,7 +10,13 @@
 * 全平台ID：莫提之地
   
    [小红书](https://www.xiaohongshu.com/user/profile/6216cbce000000001000787b？xhsshare=CopyLink&appuid=5b54863b4eacab5fd33f2f00&apptime=1717431184) / 微信视频号 / [抖音](https://www.douyin.com/user/MS4wLjABAAAADb0dODgljuLBCbqwl362CcvZDmE5px0Do_zrbgXXJBv5JTGrUg95D1UJ1XljzAee) / [播客](https://www.xiaoyuzhoufm.com/podcast/65e718c7cf58e9b0073e0d0c)  / [微博](https://weibo.com/u/7915052238)
-* 小红书和视频号不定期直播与连线 / 线下交流和观影活动（微信群内报名）/ [播客深度对话](http://xhslink.com/0Z0nkL) / 加入[「小奋队」](https://mp.weixin.qq.com/s/HbkJreJCAOjQ5nkCK06KUQ)/ [小宇宙「与真我合一」引导冥想](https://www.xiaoyuzhoufm.com/episode/68184bc547ebeede7ece78d8) / [金金1V1深度对谈（线上1小时）](https://www.xiaohongshu.com/goods-detail/68257caf8644dc00017a5e59?xsec_token=XBiC7ILfOFSJHqmq0Hk-IG654CvK0_7k3MDrcDKDSU4Bg=&xsec_source=app_share&instation_link=xhsdiscover%3A%2F%2Fgoods_detail%2F68257caf8644dc00017a5e59%3Ftrade_ext%3DeyJjaGFubmVsSW5mbyI6bnVsbCwiZHNUb2tlbkluZm8iOm51bGwsInNoYXJlTGluayI6Imh0dHBzOi8vd3d3LnhpYW9ob25nc2h1LmNvbS9nb29kcy1kZXRhaWwvNjgyNTdjYWY4NjQ0ZGMwMDAxN2E1ZTU5P2FwcHVpZD01YjU0ODYzYjRlYWNhYjVmZDMzZjJmMDAiLCJsaXZlSW5mbyI6bnVsbCwic2hvcEluZm8iOm51bGwsImdvb2RzTm90ZUluZm8iOm51bGwsImNoYXRJbmZvIjpudWxsLCJzZWFyY2hJbmZvIjpudWxsLCJwcmVmZXIiOm51bGx9%26rate_limit_meta%3DitemId%253D68257caf8644dc00017a5e58%26rn%3Dtrue&xhsshare=CopyLink&appuid=5b54863b4eacab5fd33f2f00&apptime=1748610711&share_id=ca7b1bdff90646ed8b462c23c4f02cfb)/ 更多组织形式探索中
+* 小红书和视频号不定期直播与连线
+* 线下交流和观影活动（微信群内报名)
+* 加入[「小奋队」](https://mp.weixin.qq.com/s/HbkJreJCAOjQ5nkCK06KUQ)
+* [小宇宙「与真我合一」引导冥想](https://www.xiaoyuzhoufm.com/episode/68184bc547ebeede7ece78d8)
+* [金金1V1深度对谈（线上1小时）](https://www.xiaohongshu.com/goods-detail/68257caf8644dc00017a5e59?xsec_token=XBiC7ILfOFSJHqmq0Hk-IG654CvK0_7k3MDrcDKDSU4Bg=&xsec_source=app_share&instation_link=xhsdiscover%3A%2F%2Fgoods_detail%2F68257caf8644dc00017a5e59%3Ftrade_ext%3DeyJjaGFubmVsSW5mbyI6bnVsbCwiZHNUb2tlbkluZm8iOm51bGwsInNoYXJlTGluayI6Imh0dHBzOi8vd3d3LnhpYW9ob25nc2h1LmNvbS9nb29kcy1kZXRhaWwvNjgyNTdjYWY4NjQ0ZGMwMDAxN2E1ZTU5P2FwcHVpZD01YjU0ODYzYjRlYWNhYjVmZDMzZjJmMDAiLCJsaXZlSW5mbyI6bnVsbCwic2hvcEluZm8iOm51bGwsImdvb2RzTm90ZUluZm8iOm51bGwsImNoYXRJbmZvIjpudWxsLCJzZWFyY2hJbmZvIjpudWxsLCJwcmVmZXIiOm51bGx9%26rate_limit_meta%3DitemId%253D68257caf8644dc00017a5e58%26rn%3Dtrue&xhsshare=CopyLink&appuid=5b54863b4eacab5fd33f2f00&apptime=1748610711&share_id=ca7b1bdff90646ed8b462c23c4f02cfb)
+* [播客深度对话](http://xhslink.com/0Z0nkL)
+* 更多组织形式探索中
 * 周边产品：
   [「莫提之地兴奋公式to签笔记本/徽章/冥想药香」兴奋上线中！](https://www.xiaohongshu.com/vendor/670e25e1ea230b00154d551b?naviHidden=yes)
 
